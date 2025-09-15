@@ -1,0 +1,7 @@
+# Ultra-minimal requirements - just the essentials
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+PyPDF2
+python-docx
